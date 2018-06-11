@@ -1,13 +1,13 @@
-affplanet.com
-beezdesk.com
-getreply.com
-ladesk.com
-liveagent.jp
-liveagent.se
-liveagent.sk
-postaffiliatenetwork.com
-postaffiliatepro.com
-qualityunit.com
-unitminer.com
-websialive.com
-websialive.com.br
+affplanet.com 443
+beezdesk.com 443
+getreply.com 443
+ladesk.com 443
+liveagent.jp 443
+liveagent.se 443
+liveagent.sk 443
+postaffiliatenetwork.com 443
+postaffiliatepro.com 443
+qualityunit.com 443
+unitminer.com 443
+websialive.com 443
+websialive.com.br 443
